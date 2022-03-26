@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To Do Login and Registration</string>
+    <string name="username">et_username</string>
+    <string name="password">et_password</string>
+    <string name="cpassword">c_password</string>
+    <string name="register">btn_register</string>
+    <string name="login">btn_login</string>
+    <string name="user">username</string>
+    <string name="passwrd">password</string>
+    <string name="lgn">login</string>
+    <string name="rgs">register</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+</resources>
